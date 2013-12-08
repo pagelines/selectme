@@ -1,0 +1,8 @@
+== Description ==
+
+SelectMe is a select box for PageLines DMS. I like to use it for displaying the short link to the post, but maybe you'll prefer displaying the full link. Options include showing shortlink, showing permalink, customizing the leading text, and color and width control. Global and local DMS options. Includes animation, font-size, and other customizations.
+
+== Changelog ==
+
+= 1.0 =
+* Initial release
