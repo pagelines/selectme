@@ -4,5 +4,9 @@ SelectMe is a select box for PageLines DMS. I like to use it for displaying the 
 
 == Changelog ==
 
+= 1.1 =
+* Fixed few minor issues
+* Removed how defaults were set for better UX
+
 = 1.0 =
 * Initial release

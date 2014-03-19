@@ -8,5 +8,5 @@ Description: A select box for PageLines DMS. I like to use it for displaying the
 Demo: http://www.pagelinestheme.com/selectme-section?utm_source=pagelines&utm_medium=section&utm_content=demolink&utm_campaign=selectme_section
 PageLines: true
 Class Name: DMSSelectMe
-Version: 1.0
+Version: 1.1
 */
